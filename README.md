@@ -5,5 +5,5 @@
 
 ## 2. Linux, CLI, HTTP tools.
 ![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/linux-cli.PNG?raw=true)
-I didn't lear something new about Linux or CLI. But this fact was compensated
+I didn't learn something new about Linux or CLI. But this fact was compensated
 by almost intimidating complexness of HTTP :( I'll have to learn more in feature about HTTP 
