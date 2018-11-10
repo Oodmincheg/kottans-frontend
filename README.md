@@ -1,3 +1,4 @@
 # kottans-frontend
 
-1. Git, gihub. Very useful parts about merge and pull request.
+## 1. Git, gihub.
+  Very useful parts about merge and pull request.
