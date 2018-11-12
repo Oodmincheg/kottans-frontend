@@ -12,5 +12,5 @@ by almost intimidating complexness of HTTP :( I'll have to learn more in feature
 ![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/udacity-version-control-completed.PNG)
 ![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/github-colaboration.PNG)
 
-Actualle course 1. seemed to more intersting. And theese two was pretty easy after first one
+Actually course 1. seemed to more intersting. And theese two was pretty easy after first one
 
