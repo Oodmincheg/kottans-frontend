@@ -19,4 +19,4 @@ Actually course 1. seemed to more intersting. And theese two was pretty easy aft
 ![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/htmlAcademy-css-free-completed.PNG)
 ![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/htmlAcademy-html-free-completed.PNG)
 
-In this part was very intersting tasks at htmlAcademy. Couple of css exersices was really hard. 
+It was very intersting tasks at htmlAcademy in this part of course. Couple of css exersices was really hard. 
