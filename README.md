@@ -14,3 +14,9 @@ by almost intimidating complexness of HTTP :( I'll have to learn more in feature
 
 Actually course 1. seemed to more intersting. And theese two was pretty easy after first one
 
+## 4. Intro to HTML and CSS
+![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/udacity-html-css-completed.PNG)
+![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/htmlAcademy-css-free-completed.PNG)
+![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/htmlAcademy-html-free-completed.PNG)
+
+In this part was very intersting tasks at htmlAcademy. Couple of css exersices was really hard. 
