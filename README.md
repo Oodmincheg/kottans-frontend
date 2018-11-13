@@ -20,3 +20,10 @@ Actually course 1. seemed to more intersting. And theese two was pretty easy aft
 ![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/htmlAcademy-html-free-completed.PNG)
 
 It was very intersting tasks at htmlAcademy in this part of course. Couple of css exersices was really hard. 
+
+## 5. Responsive Web Design
+![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/forgs-completed.PNG)
+![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/responsive-web-design-completed.PNG)
+
+Responsive web design very cool. But it seems very easy untill you have to try alone all this stuff. Then you understand your stupidity :( But I'm on my road. Really awesome technics such design patterns was in this part! Frohs are much worse then zombies by the way(imo).
+
