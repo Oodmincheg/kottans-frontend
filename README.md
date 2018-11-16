@@ -27,3 +27,8 @@ It was very intersting tasks at htmlAcademy in this part of course. Couple of cs
 
 Responsive web design very cool. But it seems very easy untill you have to try alone all this stuff. Then you understand your stupidity :( But I'm on my road. Really awesome technics such design patterns was in this part! Frohs are much worse then zombies by the way(imo).
 
+## 5. JS Basics
+![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/udacity-js-basics-complete.PNG)
+![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/js-freecodecamp-completed.PNG)
+
+Freecodecamp is SOOOOOOOOOO FUUUUUUUUN! Awesome stuff! I hope that I will return to another its parts in feature :) I'm in love with algoritms(but they don't with me :( )
