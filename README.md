@@ -31,4 +31,4 @@ Responsive web design very cool. But it seems very easy untill you have to try a
 ![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/udacity-js-basic-complete.PNG)
 ![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/js-freecodecamp-completed.PNG)
 
-Freecodecamp is SOOOOOOOOOO FUUUUUUUUN! Awesome stuff! I hope that I will return to another its parts in feature :) I'm in love with algoritms(but they don't with me :( )
+Freecodecamp is SOOOOOOOOOO FUUUUUUUUN! Awesome stuff! I hope that I will return to another its parts in feature :) I'm in love with algoritms(but they aren't with me :( )
