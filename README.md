@@ -32,3 +32,9 @@ Responsive web design very cool. But it seems very easy untill you have to try a
 ![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/js-freecodecamp-completed.PNG)
 
 Freecodecamp is SOOOOOOOOOO FUUUUUUUUN! Awesome stuff! I hope that I will return to another its parts in feature :) I'm in love with algoritms(but they aren't with me :( )
+## 6. DOM
+![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/udacity-dom-completed.PNG)
+![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/js-freecodecamp2-complete.PNG)
+
+Both subtasks were very challenging. There is a lot off stuff in DOM-api(and this is only 1% I think). Really I'm not sure will I be able to recall something :D
+And part 2 of algoritms was easier after part 1, but couple of tasks wer pretty cool. 
