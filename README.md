@@ -38,3 +38,9 @@ Freecodecamp is SOOOOOOOOOO FUUUUUUUUN! Awesome stuff! I hope that I will return
 
 Both subtasks were very challenging. There is a lot off stuff in DOM-api(and this is only 1% I think). Really I'm not sure will I be able to recall something :D
 And part 2 of algoritms was easier after part 1, but couple of tasks wer pretty cool. 
+
+## 8. Object Oriented JS
+![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/udacity-js-oop.PNG)
+<a href=https://www.codewars.com/users/Oodmincheg>My codewars profile</a>
+
+OOP course on udacity seems so difficult. It was very helpfull for me, but I could to understand it only in middle of the course. I think it would be a huuuge challenge without basic knowing OOP conception and basic knowin of realisation of this conceprion if JS.
