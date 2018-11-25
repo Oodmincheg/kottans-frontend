@@ -36,8 +36,8 @@ Both subtasks were very challenging. There is a lot off stuff in DOM-api(and thi
 And part 2 of algoritms was easier after part 1, but couple of tasks wer pretty cool. 
 
 ## 7. A Tiny JS World
-[Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/Oodmincheg/js-tiny-world)
-Reviewed and approved by @OleksiyRudenko
+[Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/Oodmincheg/js-tiny-world)<br>
+Reviewed and approved by @OleksiyRudenko.<br>
 The smallest task is a reason for a largest reflections. Neglection can be so harmful for your deployments. I was fixing small typos several times steeling time from @OleksiyRudenko and myself. I should be more careful next time if I want to become a web-developer.
 
 ## 8. Object Oriented JS
