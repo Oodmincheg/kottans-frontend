@@ -45,4 +45,7 @@ The smallest task is a reason for a largest reflections. Neglection can be so ha
 ## 8. Object Oriented JS
 ![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/udacity-js-oop.PNG)
 <a href=https://www.codewars.com/users/Oodmincheg>My codewars profile</a>
-OOP course on udacity seems so difficult. It was very helpfull for me, but I could to understand it only in middle of the course. I think it would be a huuuge challenge without basic knowing OOP conception and basic knowin of realisation of this conceprion if JS.
+OOP course on udacity seems so difficult. It was very helpfull for me, but I could to understand it only in middle of the course. I think it would be a huuuge challenge without basic knowing OOP conception and basic knowin of realisation of this conceprion if JS.<br>
+[Practice. Game Frogger](https://github.com/Oodmincheg/frontend-2019-homeworks/tree/master/submissions/Oodmincheg/js-oop-frogger/js) Reviewed and approved by @OleksiyRudenko<br>
+Interesging task. Have known a lot about consts in JS from @OleksiyRudenko. Have gotten a more diliberate knowledge of OOP from practice.
+
