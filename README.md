@@ -31,9 +31,11 @@ Freecodecamp is SOOOOOOOOOO FUUUUUUUUN! Awesome stuff! I hope that I will return
 
 ## 6. DOM
 ![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/udacity-dom-completed.PNG)
-![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/js-freecodecamp2-complete.PNG)
-Both subtasks were very challenging. There is a lot off stuff in DOM-api(and this is only 1% I think). Really I'm not sure will I be able to recall something :D
-And part 2 of algoritms was easier after part 1, but couple of tasks wer pretty cool. 
+![alt text](https://github.com/Oodmincheg/kottans-frontend/blob/master/img/js-freecodecamp2-complete.PNG)<br>
+Both subtasks were very challenging. There is a lot off stuff in DOM-api(and this is only 1% I think). Really I'm not sure will I be able to recall something :D <br>
+And part 2 of algoritms was easier after part 1, but couple of tasks wer pretty cool.<br>
+[Practice](https://github.com/Oodmincheg/frontend-2019-homeworks/tree/master/submissions/Oodmincheg/js-dom) Reviewed and approved by @mgdskr
+First practice with DOM. Very usefull. A lot of mistakes were because of lack of attention, I think. 
 
 ## 7. A Tiny JS World
 [Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/Oodmincheg/js-tiny-world)<br>
