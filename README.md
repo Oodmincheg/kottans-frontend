@@ -52,3 +52,7 @@ Interesging task. Have known a lot about consts in JS from @OleksiyRudenko. Have
 ## 9. OOP Exercise
 [Reviewed and approved by ](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/Oodmincheg/js-tiny-world-2/index.js)@mgdskr
 I did my exersices :) and was more deliberate. so I wasn't caught by "easiness" of this task.
+
+## 11. Memory Pair Game
+[Reviewed and approved by ](https://github.com/Oodmincheg/frontend-2019-homeworks/tree/master/submissions/Oodmincheg/memory-pair-game)@zonzujiro<br>
+It's was fun. I've learned that names of variables and function are matter. no. MATTER. and it'will be a lot of work with these theme in feature. And of course this task reminded me about my personal biggest sin INATTENTION. obv very big problem for as a web-developer :(
