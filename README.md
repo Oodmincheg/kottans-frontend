@@ -55,4 +55,4 @@ I did my exersices :) and was more deliberate. so I wasn't caught by "easiness" 
 
 ## 11. Memory Pair Game
 [Reviewed and approved by ](https://github.com/Oodmincheg/frontend-2019-homeworks/tree/master/submissions/Oodmincheg/memory-pair-game)@zonzujiro<br>
-It was fun. I've learned that names of variables and function are matter. no. MATTER. and it'will be a lot of work with this area in feature. And of course this task reminded me about my personal biggest sin INATTENTION. obv very big problem for me as a web-developer :(
+It was fun. I've learned that names of variables and function are matter. no. MATTER. and it'will be a lot of work with this area in feature. And of course this task reminded me again about my personal biggest sin - INATTENTION. obv very big problem for me as a web-developer :(
