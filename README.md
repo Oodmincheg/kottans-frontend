@@ -56,3 +56,7 @@ I did my exersices :) and was more deliberate. so I wasn't caught by "easiness" 
 ## 11. Memory Pair Game
 [Reviewed and approved by ](https://github.com/Oodmincheg/frontend-2019-homeworks/tree/master/submissions/Oodmincheg/memory-pair-game)@zonzujiro<br>
 It was fun. I've learned that names of variables and function are matter. no. MATTER. and it'will be a lot of work with this area in feature. And of course this task reminded me again about my personal biggest sin - INATTENTION. obv very big problem for me as a web-developer :(
+
+## 13. Friends App
+[Demo](http://oodmincheg.github.io/friends-api) | [Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/Oodmincheg/friend-api) Reviewed and approved by @zonzujiro <br/>
+Very interesting task. I'm disappointed about my designer's skills :D But pretty glad about my attention problem. I have to admit reducing of typos and "hurry up" things. Thanks @zonzujiro very much. He was very kind, and helped me upgrade functionality of my sorting and filtering part of task, helped me with understanding of immutability. html5 feature data-* was completely new, thanks for it @zanzujiro too :) I'm going to finish optional parts 10 and 12 and than will try to write summary of the stage 0.
