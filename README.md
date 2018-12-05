@@ -1,3 +1,5 @@
+[![Kottans-Student-Course-progress-5](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Course%20Top--5%20performer-green.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
+[![Kottans-Student-Soft-skills-Knowledge-thirst](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Knowledge%20thirsty-548ebc.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
 # kottans-frontend
 
 ## 0. Git, gihub.
